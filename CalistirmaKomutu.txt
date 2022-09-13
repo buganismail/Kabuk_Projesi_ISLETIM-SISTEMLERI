@@ -1,0 +1,4 @@
+NOT:
+ linuxda "cd" komutu ile makefileın oldugu klasore gidip 
+"make -f Makefile" yazılması gerekmektedir.
+
